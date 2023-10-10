@@ -14,6 +14,8 @@
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=rolleston-college-film-club-website) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fcloudflare-pages-badges.hunz.workers.dev%2F%3FprojectName%3Dwebv4) ![Contributors](https://img.shields.io/github/contributors/rollestoncollege/Webv4?color=dark-green) ![Issues](https://img.shields.io/github/issues/rollestoncollege/Webv4) ![License](https://img.shields.io/github/license/rollestoncollege/Webv4) 
 
+# This is no longer needed, as Peter has actually added me to the repo :)
+
 ## About The Project
 
 This site is built in Astro to be a lean and fast portfolio site for the Rolleston College Film Club
